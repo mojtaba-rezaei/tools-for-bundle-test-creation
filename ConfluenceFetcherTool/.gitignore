@@ -1,0 +1,12 @@
+# Local secrets — never commit
+config.psd1
+
+# Smoke-test scratch
+_smoke_out/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Claude Code personal settings
+.claude/settings.local.json
